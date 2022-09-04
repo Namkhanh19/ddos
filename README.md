@@ -12,19 +12,13 @@
 * GET FLOOD
 * BYPASS
 
-# Cách Setup
+# Cách Vào Tool
 
 * Vào CH Play Hoặc Appstore Tải Google Cloud Để Chạy Tool Nhé!
 
 * ```git clone https://github.com/ViDucHung206/LoveTool```
 * ```cd LoveTool```
-* ```sh setup.sh```
-* ```python abc.py```
-
-# Cách Vào Tool
-
-* ```cd LoveTool```
-* ```python abc.py```
+* ```sh start.sh```
 
 # Contact Me 
 * Telegram: @hungtricker
