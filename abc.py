@@ -45,10 +45,13 @@ class Home:
 
 	def home(self): 
 		print(f"""{Color.LG}
-╔╗ ♥     ╔♫═╗  ♥
-║║♫═╦╦╦╔╗╚╗╔╝♫═╗♫═╗╔╗
-♫╚╣║║║║╔╣ ║║ ║║║║║║♫║♫╗  
-╚═╩═╩♫╩═╝ ╚╝ ╚═╝╚═╝╚══╝
+ ████████╗██╗   ██╗██████╗ ██╗██████╗  ██████╗ ████████╗    
+ ╚══██╔══╝██║   ██║██╔══██╗██║██╔══██╗██╔═══██╗╚══██╔══╝    
+    ██║   ██║   ██║██████╔╝██║██████╔╝██║   ██║   ██║      
+    ██║   ██║   ██║██╔══██╗██║██╔══██╗██║   ██║   ██║         
+    ██║   ╚██████╔╝██████╔╝██║██████╔╝╚██████╔╝   ██║         
+    ╚═╝    ╚═════╝ ╚═════╝ ╚═╝╚═════╝  ╚═════╝    ╚═╝        
+                     Copyright Tubi2022
    ♫ Lệnh " HELP " Để Xem All Lệnh ♫
 """)
 		print(Color.LR+"["+Color.LG+"01"+Color.LR+"]"+Color.LC+" SOCKET FLOOD")
@@ -185,6 +188,6 @@ def main():
 
 if __name__ == '__main__':
 	commands = f"""HOME: Quay Lại Trang Đầu\nREFRESH: Làm Mới Menu\nCLEAN: Xoá Tất Cả\nEXIT: Thoát\nSTOP: Ngừng DDoS\nCONTACT: Contact/Hỗ Trợ"""
-	contact = f"""Facebook: https://www.facebook.com/Users.ViDucHung.ProFile\nZalo: 0359822840"""
+	contact = f"""Facebook: https://www.facebook.com/tubi2022\nZalo: 0822208612"""
 	VDH_TOOL = Home(commands, contact)
 	main()
